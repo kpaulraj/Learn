@@ -1,0 +1,1 @@
+newman run "C:\Users\vbala\OneDrive\Desktop\Postman\mycollection_api.json" -e "C:\Users\vbala\OneDrive\Desktop\Postman\mycollection_env.json"
